@@ -10,6 +10,8 @@ class FamilyInformation:
 
         self.father = FatherName + self._surname
         self.Mother = MotherName + self._surname
+        self.Mother = MotherName + self._surname
+
 
 
 
